@@ -6,6 +6,9 @@ About Abov VTOL
 
 Abov VTOL is an aerospace startup pioneering next-generation electric vertical takeoff and landing (eVTOL) aircraft designed for sustainable urban air mobility. Founded by Theodore Jacques Lavoie, we merge cutting-edge engineering with blockchain technology to redefine air safety and efficiency. Our mission: Democratize the skies with accessible, collision-proof aerial transportation.
 
+https://www.facebook.com/UCoolEats/videos/762864258742115
+https://www.facebook.com/UCoolEats/videos/1086764335964015
+
 👉 Explore Our Vision: https://orangcoin.wixsite.com/flyabov
 Meet the Visionary: Theodore Jacques Lavoie
 
@@ -72,7 +75,9 @@ Connect & Follow Our Journey
 
     LinkedIn: Jacques Lavoie
 
-    Design Portfolio: StormyIsland3D
+    facebook : https://www.facebook.com/UCoolEats
+
+    3D printers: StormyIsland3D
 
     Book: "AI-pocalypse" on Amazon
 
